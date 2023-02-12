@@ -1,36 +1,23 @@
-<p style="color: green"><%= notice %></p>
-
-
-
-<div id="friends">
-  <table class="table table-hover table-striped">
-    <thead>
-      <tr class="table-dark">
-        <th scope="row"> First Name   </th>
-        <th scope="row"> Last Name    </th>
-        <th scope="row"> Eamil        </th>
-        <th scope="row"> Phone        </th>
-        <th scope="row"> Twitter      </th>
-        <th scope="row"> Show         </th>
-      </tr>
-    </thead>
-    <tbody>
-      <%= render @friend %>
-    </tbody>
-  </table>
+<div class = "jumbotron">
+  <h1 class = "display-4">
+    <%= @friend.first_name %>
+    <%= @friend.last_name %>
+  </h1>
+  <p class="lead">
+    <%= @friend.email %>  | 
+    <%= @friend.phone %>  |  
+    <%= @friend.twitter %>
+  </p>
 </div>
 
 <div>
   <div class="btn-toolbar justify-content-between" role="toolbar" aria-label="Toolbar with button groups">
     <div class="btn-group" role="group" aria-label="First group">
-      <%= link_to "👈 Back to friends", friends_path, class:"btn btn-dark" %>
-      <%= link_to "👆 Edit this friend", edit_friend_path(@friend), class:"btn btn-secondary" %>
+      <%= link_to "< Back to friends", friends_path, class:"btn btn-dark" %>
+      <%= link_to "Edit this friend 📝", edit_friend_path(@friend), class:"btn btn-secondary" %>
     </div>
     <div class="btn-group" role="group" aria-label="Second group">
       <%= button_to "Destroy this friend", @friend, method: :delete, class:"btn btn-danger" %>
     </div>
-
-
   </div>
-
 </div>
