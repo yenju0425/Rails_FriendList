@@ -25,7 +25,7 @@ Here are some resources that will be useful as you work on the Friends List app:
 * 💎 Gem-Devise:
   * [Devise RubyGem](https://rubygems.org/gems/devise)
 
-# Demostration
+# Demonstration
 
 Here's a demonstration of the Friends List app:
 * [My Friends App](https://drive.google.com/file/d/12MYbzRWThDe4vdaMo4-nZm1M94M_kQFJ/view?usp=share_link)
