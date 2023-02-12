@@ -18,5 +18,5 @@ This project offers a great opportunity to develop your skills and deepen your u
   * [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
 * Useful Tutorial 📚:
   * [Creating a Friends List App with Rails and Bootstrap](https://youtu.be/fmyvWz5TUWg)
-* Bootstrap elements 💡:
+* Bootstrap elements 🎨:
   * [Bootstrap Documentation](https://getbootstrap.com)
