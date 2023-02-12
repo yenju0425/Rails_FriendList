@@ -9,13 +9,14 @@ By working on this project, you will gain hands-on experience in several key are
 * Setting up a database system and integrating it with Rails
 * Enhancing the user interface with Bootstrap
 * Understanding the fundamental framework of Rails and its capabilities
-* This project offers a great opportunity to develop your skills and deepen your understanding of Ruby on Rails. Happy coding!
+
+This project offers a great opportunity to develop your skills and deepen your understanding of Ruby on Rails. Happy coding!
 
 # References
 
-* Rails Setting Up:
+* Rails Setting Up ⚙️:
   * [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
-* Useful Tutorial:
+* Useful Tutorial 📚:
   * [Creating a Friends List App with Rails and Bootstrap](https://youtu.be/fmyvWz5TUWg)
-* Bootstrap elements:
+* Bootstrap elements 💡:
   * [Bootstrap Documentation](https://getbootstrap.com)
