@@ -16,11 +16,11 @@ This project provides an excellent opportunity to develop your skills and deepen
 
 Here are some resources that will be useful as you work on the Friends List app:
 
-* Rails Setting Up ⚙️:
+* ⚙️ Rails Setting Up :
   * [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
-* Useful Tutorial 📚:
+* 📚 Useful Tutorial :
   * [Creating a Friends List App with Rails and Bootstrap](https://youtu.be/fmyvWz5TUWg)
-* Bootstrap elements 🎨:
+* 🎨 Bootstrap elements :
   * [Bootstrap Documentation](https://getbootstrap.com)
-* Gem-Devise 💎:
+* 💎 Gem-Devise:
   * [Devise RubyGem](https://rubygems.org/gems/devise)
