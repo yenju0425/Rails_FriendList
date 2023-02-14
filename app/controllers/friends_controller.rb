@@ -1,4 +1,5 @@
 class FriendsController < ApplicationController
+  before_action :authenticate_user!, except: %i[ index show ]
   before_action :set_friend, only: %i[ show edit update destroy ]
 
   # GET /friends or /friends.json
@@ -65,6 +66,6 @@ class FriendsController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def friend_params
-      params.require(:friend).permit(:first_name, :last_name, :email, :phone, :twitter)
+      params.require(:friend).permit(:first_name, :last_name, :email, :phone, :twitter, :user_id) # permit the hidden parm
     end
 end
