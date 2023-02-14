@@ -38,4 +38,4 @@ Here's a demonstration of the Friends List app:
 * You can use database management tools like DBeaver to see exactly what each migration command does to your table:
   * Download DBeaver: https://dbeaver.io/download/
   * Open the db/development.sqlite3 file.
-* Having some database knowledge is important to understand what you are doing in the Rails model commands.
+* Having some database knowledge is IMPORTANT to understand what exactly you're doing in the Rails model commands.
