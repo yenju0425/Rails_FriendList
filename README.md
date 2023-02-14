@@ -25,8 +25,8 @@ Here are some resources that will be useful as you work on the Friends List app:
   * [Bootstrap Documentation](https://getbootstrap.com)
 * 💎 Gem-Devise:
   * [Devise RubyGem](https://rubygems.org/gems/devise)
-* Associations:
-  * https://guides.rubyonrails.org/association_basics.html#the-has-many-through-association
+* 🔗 Associations:
+  * [Active Record Associations](https://guides.rubyonrails.org/association_basics.html#the-has-many-through-association)
 
 # Demonstration
 
@@ -34,9 +34,8 @@ Here's a demonstration of the Friends List app:
 * [My Friends App](https://drive.google.com/file/d/12MYbzRWThDe4vdaMo4-nZm1M94M_kQFJ/view?usp=share_link)
 
 # Hints
-* Comments below the Youtube video is useful.
-* You can use database managing tools like DBeaver to see what exactly dose every migration commands do your table
-  1. Download DBeaver:
-    * https://dbeaver.io/download/
-  2. Open the db/development.sqlite3 file
-* Having some database knowledge is IMPORTANT to understand what exactly your doing in the Rails model commands. 
+* Comments below the YouTube video are useful.
+* You can use database management tools like DBeaver to see exactly what each migration command does to your table:
+  * Download DBeaver: https://dbeaver.io/download/
+  * Open the db/development.sqlite3 file.
+* Having some database knowledge is important to understand what you are doing in the Rails model commands.
