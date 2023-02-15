@@ -1,4 +1,8 @@
 class FriendsController < ApplicationController
+
+  # correct way to redirect
+  before_action :require_login
+
   before_action :authenticate_user!, except: %i[ index show ]
   before_action :set_friend, only: %i[ show edit update destroy ]
   before_action :correct_user, only: %i[ edit update destroy ]
@@ -65,6 +69,12 @@ class FriendsController < ApplicationController
     @friend = current_user.friends.find_by(id: params[:id])
     if @friend.nil?
       redirect_to friends_path, notice: "Not Authorized!"
+    end
+  end
+
+  def require_login
+    unless user_signed_in? # if ... == false
+      redirect_to home_index_path
     end
   end
 
