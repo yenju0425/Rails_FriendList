@@ -32,7 +32,7 @@
         <%= link_to "< Back", :back, class:"btn btn-dark" %>
         <%= f.submit "Update", class:"btn btn-secondary" %>
       </div>
-      <%= button_to "Cancel my account", registration_path(resource_name), data: { confirm: "Are you sure?" }, method: :delete, class:"btn btn-danger" %>
+      <%= link_to "Cancel my account", registration_path(resource_name), data: { turbo_method: :delete, turbo_confirm: "Are you sure?" }, class:"btn btn-danger" %>
     </div>
   </div>
 <% end %>
