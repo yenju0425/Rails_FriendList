@@ -1,6 +1,6 @@
 class FriendsController < ApplicationController
 
-  # correct way to redirect
+  # The correct way to redirect
   before_action :require_login
 
   before_action :authenticate_user!, except: %i[ index show ]
@@ -64,8 +64,8 @@ class FriendsController < ApplicationController
     end
   end
 
+  # Check if this friend is included in the current user's friend list
   def correct_user
-    # Check if this friend is included in the current_user's friend list
     @friend = current_user.friends.find_by(id: params[:id])
     if @friend.nil?
       redirect_to friends_path, notice: "Not Authorized!"
@@ -86,6 +86,6 @@ class FriendsController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def friend_params
-      params.require(:friend).permit(:first_name, :last_name, :email, :phone, :twitter, :user_id) # permit the hidden parm
+      params.require(:friend).permit(:first_name, :last_name, :email, :phone, :twitter, :user_id) # The user_id is manually added to permit the hidden parameter
     end
 end
