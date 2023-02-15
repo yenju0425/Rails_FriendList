@@ -31,7 +31,11 @@ Here are some resources that will be useful as you work on the Friends List app:
 # Demonstration
 
 Here's a demonstration of the Friends List app:
-* [My Friends App](https://drive.google.com/file/d/12MYbzRWThDe4vdaMo4-nZm1M94M_kQFJ/view?usp=share_link)
+* [Overview](https://drive.google.com/file/d/1NS8G51meG1dVflRY5iTvM7z-LAN5_OqQ/view?usp=share_link)
+* [User login](https://drive.google.com/file/d/1BOzNG--I7JE9lnpdQhl8e4jg9SNF0q_j/view?usp=share_link)
+* [Opearate user's friends](https://drive.google.com/file/d/19-IV1ZnG2TIh-dQ1_NXBkZWq88ObOHFO/view?usp=share_link)
+* [Switch between accounts](https://drive.google.com/file/d/1XnwOc5YtArc0reMc72UbaPlGZD_NB1kX/view?usp=share_link)
+* [Delete user account](https://drive.google.com/file/d/1ijUcOIQPu-N7Q6tLDT1QjinBh4_d90g7/view?usp=share_link)
 
 # Hints
 * Comments below the YouTube video are useful.
