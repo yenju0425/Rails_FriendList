@@ -15,7 +15,7 @@ By working on this project, you will gain hands-on experience in several key are
 This project provides an excellent opportunity to develop your skills and deepen your understanding of Ruby on Rails. Happy coding!
 # References
 
-Here are some video demonstrations of the Friends List app:
+Here are some resources that will be useful as you work on the Friends List app:
 
 * ⚙️ Rails Setting Up :
   * [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
@@ -31,6 +31,7 @@ Here are some video demonstrations of the Friends List app:
 # Demonstrations
 
 Here are some video demonstrations of the Friends List app:
+
 * [Overview](https://drive.google.com/file/d/1NS8G51meG1dVflRY5iTvM7z-LAN5_OqQ/view?usp=share_link)
 * [Create account](https://drive.google.com/file/d/1BOzNG--I7JE9lnpdQhl8e4jg9SNF0q_j/view?usp=share_link)
 * [Edit friend list](https://drive.google.com/file/d/19-IV1ZnG2TIh-dQ1_NXBkZWq88ObOHFO/view?usp=share_link)
