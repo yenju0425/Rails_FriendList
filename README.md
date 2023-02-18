@@ -33,7 +33,7 @@ Here are some video demonstrations of the Friends List app:
 Here's a demonstration of the Friends List app:
 * [Overview](https://drive.google.com/file/d/1NS8G51meG1dVflRY5iTvM7z-LAN5_OqQ/view?usp=share_link)
 * [Create account](https://drive.google.com/file/d/1BOzNG--I7JE9lnpdQhl8e4jg9SNF0q_j/view?usp=share_link)
-* [Edit user's friends](https://drive.google.com/file/d/19-IV1ZnG2TIh-dQ1_NXBkZWq88ObOHFO/view?usp=share_link)
+* [Edit friend list](https://drive.google.com/file/d/19-IV1ZnG2TIh-dQ1_NXBkZWq88ObOHFO/view?usp=share_link)
 * [Switch between accounts](https://drive.google.com/file/d/1XnwOc5YtArc0reMc72UbaPlGZD_NB1kX/view?usp=share_link)
 * [Delete account](https://drive.google.com/file/d/1ijUcOIQPu-N7Q6tLDT1QjinBh4_d90g7/view?usp=share_link)
 
