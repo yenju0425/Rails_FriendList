@@ -28,9 +28,9 @@ Here are some video demonstrations of the Friends List app:
 * 🔗 Associations:
   * [Active Record Associations](https://guides.rubyonrails.org/association_basics.html#the-has-many-through-association)
 
-# Demonstration
+# Demonstrations
 
-Here's a demonstration of the Friends List app:
+Here are some video demonstrations of the Friends List app:
 * [Overview](https://drive.google.com/file/d/1NS8G51meG1dVflRY5iTvM7z-LAN5_OqQ/view?usp=share_link)
 * [Create account](https://drive.google.com/file/d/1BOzNG--I7JE9lnpdQhl8e4jg9SNF0q_j/view?usp=share_link)
 * [Edit friend list](https://drive.google.com/file/d/19-IV1ZnG2TIh-dQ1_NXBkZWq88ObOHFO/view?usp=share_link)
